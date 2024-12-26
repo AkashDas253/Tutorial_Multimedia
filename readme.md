@@ -171,8 +171,10 @@
    - Types of Sound
    - Digitizing Sound
    - Computer Representation of Sound (Sampling Rate, Sampling Size, Quantization)
-   - Audio Formats
-   - Audio tools, MIDI
+   - [Audio Formats](lessons/audio_formats/readme.md)
+   - Audio tools
+   - [MIDI](lessons/midi/readem.md)
+   - [Equations](lessons/audio_equations/readme.md)
 
    #### [Image](lessons/image/readme.md)
    - Formats
